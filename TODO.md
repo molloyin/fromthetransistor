@@ -1,4 +1,3 @@
-# fromthetransistor
 
 ### TODO
 
@@ -14,7 +13,7 @@ Closest dragon: Building a UART
 
 
 
-### Description
+
 
 ### From the Transistor to the Web Browser
 
