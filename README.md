@@ -5,3 +5,5 @@ up with my black-boxed knowledge--it will be easier to solve a mystery if my kno
 Ultimately, beyond the scope of this course, the tree will go from mostly dark, with pseudo-random pockets of light, to as illuminant as I can make it in 
 my finite time.       
 > Note: Too sappy
+
+Also, learning neovim and non-nooby git
