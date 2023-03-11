@@ -7,11 +7,12 @@ Closest dragon: Building a UART
 
 ### IN PROGRESS
 
-- Section 1
+- Section 2
+    - Blinking an LED
 
 ### DONE
 
-
+- Section 1
 
 
 
