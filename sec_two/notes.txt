@@ -1,0 +1,5 @@
+Currently lost in the setup sauce a little.
+In sec_two I'll be using QEMU to build the ARM7, and it's possible to implement sec_two in QEMU also.
+Why not just use QEMU for everything? Learning icarus verilog or verilator would take time and be dumped immediatly...
+then again, perhaps it will shallow out the learning curve to a worthwhile degree... will keep exploring!!! but need to do uni first :(( :D
+
